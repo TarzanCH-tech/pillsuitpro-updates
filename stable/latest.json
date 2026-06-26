@@ -1,0 +1,11 @@
+{
+  "version": "0.5.0",
+  "notes": "## FlowSuite Pro v0.5.0\n\n### What's New\n- Enterprise pharmacy ERP\n- Real-time inventory management\n- AI-powered insights\n- Multi-PC synchronization via WebSockets\n- Role-based access control",
+  "pub_date": "2026-06-26T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenlYeFp0QTNOUHFsUFJMbkQzRUxpYUF0dnJIWmY5dDVvczU2NlJCQ3lvMFNSc3ZKcXpRNk0yZFB0S3FXMXBHbWc3ZFN3TVdsYVRrQzNkUWsyajk4cXRqcFlrZFhqaXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDgwNTkxCWZpbGU6Rmxvd1N1aXRlIFByb18wLjUuMF94NjQtc2V0dXAuZXhlCkxLMkR2YnpPZFFZYzF3cFM3WXRoZ0RMekVHS0dEZnRHOVlJb2ZTcEVtSmptRWd1OUFiMTJxbmZkb1F4c2xKa1VsN2xjcVlvZDhQb1l5SnlaZ0wzTUFnPT0K",
+      "url": "https://github.com/TarzanCH-tech/pillsuitpro-updates/releases/download/v0.5.0/FlowSuite.Pro_0.5.0_x64-setup.exe"
+    }
+  }
+}
