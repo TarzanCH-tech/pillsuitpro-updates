@@ -1,11 +1,11 @@
 {
-  "version": "0.5.0",
-  "notes": "## FlowSuite Pro v0.5.0\n\n### What's New\n- Enterprise pharmacy ERP\n- Real-time inventory management\n- AI-powered insights\n- Multi-PC synchronization via WebSockets\n- Role-based access control",
-  "pub_date": "2026-06-26T00:00:00Z",
+  "version": "1.0.0",
+  "notes": "FlowSuite Pro v1.0.0 — Receipt designer improvements, bulk import with auto-update, database health fix, delete-all products enabled, and production hardening.",
+  "pub_date": "2026-07-06T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenlYeFp0QTNOUGhGWml6VVFZNGIySHBBWkIxMFJ4V1JMcm1lbnh1ZytockRWUzlXdndNMVFLZGlaQ2hadzFTdzlLR29UQXF0dXJQVi9RdVNibVdBWXQrNkVaOGxRM1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDk0NzI0CWZpbGU6Rmxvd1N1aXRlIFByb18wLjUuMF94NjQtc2V0dXAuZXhlCmplTEZ1dFVTeElqdm8xOE91Unl1T0NnT0xqNEl3TG15T0x1cWlRcVBMRGNoOGt2am4xd0hETkd2VXFRZmdxQU1hZitBWXUvUlV0dEVoRDZheWpwZkJnPT0K",
-      "url": "https://github.com/TarzanCH-tech/pillsuitpro-updates/releases/download/v0.5.0/FlowSuite.Pro_0.5.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTdktRV0ZDeWd6Wm5VWU9iY3czK3Vxa21TTzJuUG40dEk4MVRCY1JreW9ET25jVTM0K3piY05nVzd4ODZReVZ4OUtXQkp6QmU2djVTNE43czRDZXQ3aDNManlDTzdCM3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDA5NTgxCWZpbGU6Rmxvd1N1aXRlIFByb18xLjAuMF94NjQtc2V0dXAuZXhlCkJRbmJRbDAvK2pjaituaVhmMTFTZ0ZhU1VxQkhwYUVnZitwL3QrcGJtRCs4cFBKYW9WejJsS1Y5d1ZJS1BtQUdQd0x1TGxvL3h6RTFxeTZ1TzBsc0JnPT0K",
+      "url": "https://github.com/TarzanCH-tech/pillsuitpro-updates/releases/download/v1.0.0/FlowSuite.Pro_1.0.0_x64-setup.exe"
     }
   }
 }
